@@ -100,6 +100,10 @@ Experimental
 [Multicultural](https://chat.openai.com/g/g-PVfNlm9y5-multicultural)
 <br>
 [Torontonian](https://chat.openai.com/g/g-MLyFYs8LH-torontonian)
+<br>
+[Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
+<br>
+[School Selector](https://chat.openai.com/g/g-U1rNmqPa2-school-selector)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
