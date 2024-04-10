@@ -92,6 +92,14 @@ Experimental
 [Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
 <br>
 [Researcher](https://chat.openai.com/g/g-YBfh2TXhd-researcher)
+<br>
+[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
+<br>
+[Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
+<br>
+[Multicultural](https://chat.openai.com/g/g-PVfNlm9y5-multicultural)
+<br>
+[Torontonian](https://chat.openai.com/g/g-MLyFYs8LH-torontonian)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
