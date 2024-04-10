@@ -88,6 +88,8 @@ Experimental
 [National Update](https://chat.openai.com/g/g-IcqboO1QQ-national-update)
 <br>
 [Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
+<br>
+[Researcher](https://chat.openai.com/g/g-YBfh2TXhd-researcher)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
