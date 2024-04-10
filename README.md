@@ -104,6 +104,10 @@ Experimental
 [Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
 <br>
 [School Selector](https://chat.openai.com/g/g-U1rNmqPa2-school-selector)
+<br>
+[Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
+<br>
+[Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
