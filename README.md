@@ -53,6 +53,8 @@ Experimental
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Physics Emperiments](https://github.com/sourceduty/Physics_Experiments)
+<br>
+[Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
 
 #
 ### Public Information GPTs
