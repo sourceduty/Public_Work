@@ -81,5 +81,13 @@ Experimental
 <br>
 [GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-creation-guide)
 
+### Copyright Protected Public Information GPTs
+
+[Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
+<br>
+[National Update](https://chat.openai.com/g/g-IcqboO1QQ-national-update)
+<br>
+[Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
