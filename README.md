@@ -83,7 +83,7 @@ Experimental
 <br>
 [Public Library of Science](https://chat.openai.com/g/g-61QxqC9vW-public-library-of-science)
 
-### Copyright Protected Public Information GPTs
+### Semi-Protected Public Information GPTs
 
 [Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
 <br>
