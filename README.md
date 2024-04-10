@@ -80,6 +80,8 @@ Experimental
 [GPT-Info](https://chat.openai.com/g/g-ntdzmhh6s-gpt-info)
 <br>
 [GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-creation-guide)
+<br>
+[Public Library of Science](https://chat.openai.com/g/g-61QxqC9vW-public-library-of-science)
 
 ### Copyright Protected Public Information GPTs
 
