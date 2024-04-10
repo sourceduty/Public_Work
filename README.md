@@ -54,5 +54,31 @@ Experimental
 <br>
 [Physics Emperiments](https://github.com/sourceduty/Physics_Experiments)
 
+### Public Information GPTs
+
+[Global Problem Solver](https://chat.openai.com/g/g-2sjHPTA5y-global-problem-solver)
+<br>
+[Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
+<br>
+[Cancer Simulation Research](https://chat.openai.com/g/g-rJ2Onux8b-cancer-simulation-research)
+<br>
+[Oscilliscope Lab](https://chat.openai.com/g/g-nzY4ZwhO3-oscilloscope-lab)
+<br>
+[ChatGPT Cheats](https://chat.openai.com/g/g-Zvkwt2Zkr-chatgpt-cheats)
+<br>
+[Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
+<br>
+[Custom Response](https://chat.openai.com/g/g-hQUalsSXM-custom-response)
+<br>
+[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
+<br>
+[Canadian Government](https://chat.openai.com/g/g-578CEKmsA-canadian-government)
+<br>
+[Open Library Expert](https://chat.openai.com/g/g-dhqKoecAp-open-library-expert)
+<br>
+[GPT-Info](https://chat.openai.com/g/g-ntdzmhh6s-gpt-info)
+<br>
+[GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-creation-guide)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
