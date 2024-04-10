@@ -1,4 +1,4 @@
-![Hacker](https://github.com/sourceduty/Public_Work/assets/123030236/65b4d9dc-9f67-4aa9-a3ae-6eabf686adac)
+![Public](https://github.com/sourceduty/Public_Work/assets/123030236/d4dfcf46-6820-4c78-bae0-d3f8b12e7d83)
 
 Sourceduty's contribution to the open-source community through its public information projects and custom GPTs underscores a commitment to transparency, collaboration, and innovation. By making these assets freely accessible on GitHub, Sourceduty not only fuels the advancement of technology but also nurtures a vibrant ecosystem where knowledge is shared openly. These projects, encompassing diverse topics from digital ethics to cutting-edge AI applications, serve as a rich resource for developers, researchers, and enthusiasts worldwide. The initiative encourages the community to engage, contribute, and evolve these projects, fostering a culture of collective innovation and making technology more inclusive and adaptable. This open-source ethos reflects Sourceduty's broader vision of empowering individuals and organizations to leverage digital advancements for creative and ethical problem-solving.
 
