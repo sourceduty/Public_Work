@@ -110,6 +110,8 @@ Experimental
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
 [Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
+<br>
+[Society Simulator](https://chat.openai.com/g/g-6JmbafNlt-society-simulator)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
