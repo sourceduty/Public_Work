@@ -67,8 +67,7 @@ Experimental
 <br>
 [Pothole Prediction](https://github.com/sourceduty/Pothole_Prediction)
 
-#
-### Public Information GPTs
+Public Information GPTs
 
 [Global Problem Solver](https://chat.openai.com/g/g-2sjHPTA5y-global-problem-solver)
 <br>
@@ -96,7 +95,7 @@ Experimental
 <br>
 [Public Library of Science](https://chat.openai.com/g/g-61QxqC9vW-public-library-of-science)
 
-### Semi-Protected Public Information GPTs
+Semi-Protected Public Information GPTs
 
 [Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
 <br>
