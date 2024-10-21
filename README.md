@@ -42,6 +42,10 @@ Science
 [Modernization](https://github.com/sourceduty/Modernization)
 <br>
 [Energy](https://github.com/sourceduty/Energy)
+<br>
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[New Science Subject](https://github.com/sourceduty/New_Science_Subject)
 
 Social
 
