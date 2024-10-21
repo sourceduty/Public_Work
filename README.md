@@ -19,8 +19,6 @@ In contrast, public workers, such as government employees, do not own any part o
 
 ***
 
-### Public Information Repositories
-
 General
 
 [Predictions](https://github.com/sourceduty/Predictions)
