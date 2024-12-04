@@ -85,6 +85,8 @@ Public Information GPTs
 <br>
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
+[Economic Government-Business Framework](https://github.com/sourceduty/Economic_Government-Business_Framework)
+<br>
 [Custom Response](https://chat.openai.com/g/g-hQUalsSXM-custom-response)
 <br>
 [Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
